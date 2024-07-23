@@ -1,0 +1,53 @@
+.heading
+{
+background-color: white;
+padding: 20px;
+color: #0066FF;
+}
+img{
+float: right;
+width: 58px;
+height: 62px;
+
+}
+h2{
+   background-color: #eae4dd;
+   padding: 6px;
+   height: 25px;
+   width: 400px;
+   color: brown;
+}
+body{
+ width: 100%;
+ height: auto;
+ background-image: url("color.jpg");
+ background-repeat:no repeat;
+ background-size: cover;
+}
+video{
+border-style: solid;
+border-color: rgba(148, 19, 92, 0.26);
+border-width: 25px;
+border-radius: 5px;
+margin:15px;
+}
+button{
+  padding: 5px;
+  border-radius: 5px;
+  background-color: rgb(186, 37, 159);
+}
+button:hover{
+   padding: 7px;
+   transition: none;
+   background-color: rgba(171, 51, 155, 0.719);
+}
+
+
+
+
+
+
+
+
+
+
